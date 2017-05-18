@@ -1,7 +1,1 @@
 theme: jekyll-theme-tactile
-
-webrick:
-  headers:
-    h1: My-Value
-    h2: My-Other-Value
-    
